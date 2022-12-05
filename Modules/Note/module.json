@@ -1,0 +1,11 @@
+{
+    "name": "Note",
+    "alias": "note",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Note\\Providers\\NoteServiceProvider"
+    ],
+    "files": []
+}
